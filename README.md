@@ -1,4 +1,4 @@
-This Assignment from intershala
+This Assignment from internshala
 
 Watch UI Mockup Video provided as a reference below. In the video, we describe some important components of the mobile UI of the Telegram messaging app.
 Your task is to create a pixel-perfect replica of the telegram messaging application - both in desktop view and mobile view using ReactJS.
