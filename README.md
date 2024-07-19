@@ -19,6 +19,8 @@ Type: Get Request
 
 UI Mockup Video: React Telegram Assignment.mp4
 
+This clone is fully responsive.
+
 # Live Link
 
 - https://majestic-unicorn-3f6ed5.netlify.app
